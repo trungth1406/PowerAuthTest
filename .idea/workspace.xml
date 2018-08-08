@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40eb8fca-93f7-4183-b1ab-784cc2b7a4f0" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1021461844">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="158" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="158" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="13" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PowerAuthSpring" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/test/powerauth/NewTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="649">
+              <caret line="87" selection-start-line="87" selection-end-line="87" />
+              <folding>
+                <marker date="1532597831962" expanded="false" signature="13506:15384" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/getlime/security/powerauth-restful-security-base/0.18.0/powerauth-restful-security-base-0.18.0.jar!/io/getlime/security/powerauth/rest/api/base/provider/PowerAuthAuthenticationProviderBase.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>salt</find>
+      <find>httpAuthorizationHeader</find>
+      <find>stepLogger</find>
+      <find>signature</find>
+      <find>KEY_MASTER_SECRET</find>
+      <find>client</find>
+      <find>signatureKnowledgeKey</find>
+      <find>SERVER_PUBLIC_KEY</find>
+      <find>va</find>
+      <find>password</find>
+      <find>vault</find>
+      <find>signatureBio</find>
+      <find>sign</find>
+      <find>endpoint</find>
+      <find>signatureBaseString</find>
+      <find>comiit</find>
+      <find>KEY_KNOWLEDGE_SIGNATURE_BYTE</find>
+      <find>convertByte</find>
+      <find>ACTIVATION_ID_RESPONSE</find>
+      <find>keygenerator</find>
+      <find>Nonce</find>
+      <find>signatureForData</find>
+      <find>getResourceId</find>
+      <find>pa_nonce</find>
+      <find>encrypt</find>
+      <find>VerifySignature</find>
+      <find>applicationSecret</find>
+      <find>powerAuthSignature</find>
+      <find>verifySignature</find>
+      <find>Http</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/test/powerauth/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/powerauth/AuthenticationController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/powerauth/pamk.json" />
+        <option value="$PROJECT_DIR$/src/main/java/test/powerauth/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/powerauth/PowerAuthSOAP.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/powerauth/data.json" />
+        <option value="$PROJECT_DIR$/src/main/java/test/powerauth/request.json" />
+        <option value="$PROJECT_DIR$/src/main/java/test/powerauth/PowerAuthWebServiceConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/powerauth/EncyptionTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/test/powerauth/NewTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="786" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PowerAuthSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PowerAuthSpring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PowerAuthSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PowerAuthSpring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PowerAuthSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PowerAuthSpring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PowerAuthSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PowerAuthSpring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PowerAuthSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PowerAuthSpring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="powerauth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PowerAuthSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="PowerAuthSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.getlime.security:powerauth-restful-security-javaee:0.18.0" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="PowerAuthSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.getlime.security:powerauth-restful-security-javaee:0.18.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="powerauth-restful-security-javaee-0.18.0.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PowerAuthSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.getlime.security:powerauth-restful-security-javaee:0.18.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="powerauth-restful-security-javaee-0.18.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="jaxrs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PowerAuthSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.getlime.security:powerauth-restful-security-javaee:0.18.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="powerauth-restful-security-javaee-0.18.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="jaxrs" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="encrypt&#9;FILE&#9;jar:///Users/trungtran/Downloads/PowerAuth/powerauth-java-cmd.jar!/io/getlime/security/powerauth/crypto/lib/encryptor/model/EncryptedMessage.class&#10;validateSignature&#9;PSI&#9;JAVA://org.opensaml.security.SAMLSignatureProfileValidator#validateSignatureImpl&#10;PersonalizedEncryptedMessage&#9;PSI&#9;JAVA://io.getlime.security.powerauth.crypto.lib.encryptor.model.NonPersonalizedEncryptedMessage&#10;EncryptedMessage&#9;FILE&#9;jar:///Users/trungtran/Downloads/PowerAuth/powerauth-java-cmd.jar!/io/getlime/security/powerauth/crypto/lib/encryptor/model/PersonalizedEncryptedMessage.class&#10;EciesPayload&#9;PSI&#9;JAVA://io.getlime.security.powerauth.crypto.lib.encryptor.ecies.model.EciesPayload&#10;generatePersonalizedE2EEncryptionKey&#9;PSI&#9;JAVA://io.getlime.security.powerauth.soap.spring.client.PowerAuthServiceClient#generateNonPersonalizedE2EEncryptionKey&#10;generateE2EPersonalizedEncryptionKey&#9;PSI&#9;JAVA://io.getlime.security.powerauth.app.server.endpoint.PowerAuthEndpoint#generateE2EPersonalizedEncryptionKey&#10;generateE2ENonPersonalizedEncryptionKey&#9;PSI&#9;JAVA://io.getlime.security.powerauth.app.server.service.PowerAuthService#generateE2ENonPersonalizedEncryptionKey&#10;generateE2EEncryptionKey&#9;PSI&#9;JAVA://io.getlime.security.powerauth.app.server.service.PowerAuthService#generateE2ENonPersonalizedEncryptionKey" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1532598474133" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.ActionScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/test/powerauth" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.NewTest">
+    <configuration name="AuthenticationController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.powerauth.AuthenticationController" />
+      <module name="PowerAuthSpring" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.powerauth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EncyptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.powerauth.EncyptionTest" />
+      <module name="PowerAuthSpring" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.powerauth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.powerauth.NewTest" />
+      <module name="PowerAuthSpring" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.powerauth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.powerauth.Test" />
+      <module name="PowerAuthSpring" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.powerauth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PowerAuthSOAP" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="PowerAuthSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.powerauth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="test.powerauth.PowerAuthSOAP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.NewTest" />
+      <item itemvalue="Spring Boot.PowerAuthSOAP" />
+      <item itemvalue="Application.EncyptionTest" />
+      <item itemvalue="Application.AuthenticationController" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NewTest" />
+        <item itemvalue="Application.EncyptionTest" />
+        <item itemvalue="Application.AuthenticationController" />
+        <item itemvalue="Spring Boot.PowerAuthSOAP" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40eb8fca-93f7-4183-b1ab-784cc2b7a4f0" name="Default" comment="" />
+      <created>1530772804026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530772804026</updated>
+      <workItem from="1530772805873" duration="9051000" />
+      <workItem from="1530782784722" duration="2072000" />
+      <workItem from="1530786865373" duration="796000" />
+      <workItem from="1530841200934" duration="10562000" />
+      <workItem from="1531101129858" duration="75000" />
+      <workItem from="1531101250584" duration="7163000" />
+      <workItem from="1531119234145" duration="12412000" />
+      <workItem from="1531186554946" duration="19240000" />
+      <workItem from="1531273488007" duration="4632000" />
+      <workItem from="1531278714881" duration="10998000" />
+      <workItem from="1531301929664" duration="2109000" />
+      <workItem from="1531359758456" duration="12442000" />
+      <workItem from="1531406532540" duration="1110000" />
+      <workItem from="1531445962901" duration="3743000" />
+      <workItem from="1531455395912" duration="8651000" />
+      <workItem from="1531476308852" duration="1996000" />
+      <workItem from="1531532405701" duration="992000" />
+      <workItem from="1531533448816" duration="10396000" />
+      <workItem from="1531705293313" duration="11282000" />
+      <workItem from="1531791638992" duration="6995000" />
+      <workItem from="1531818363065" duration="4695000" />
+      <workItem from="1531877449719" duration="13979000" />
+      <workItem from="1531966038290" duration="9972000" />
+      <workItem from="1532051088982" duration="1608000" />
+      <workItem from="1532057808582" duration="6590000" />
+      <workItem from="1532077832735" duration="232000" />
+      <workItem from="1532079117306" duration="3700000" />
+      <workItem from="1532310778391" duration="22242000" />
+      <workItem from="1532397455693" duration="173000" />
+      <workItem from="1532405592044" duration="517000" />
+      <workItem from="1532407287185" duration="531000" />
+      <workItem from="1532501620932" duration="278000" />
+      <workItem from="1532588793160" duration="105000" />
+      <workItem from="1532589086123" duration="2979000" />
+      <workItem from="1532657303039" duration="1175000" />
+      <workItem from="1532667088291" duration="32000" />
+      <workItem from="1533114373410" duration="96000" />
+      <workItem from="1533715111174" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="205636000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="786" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49914238" visible="true" weight="0.35121602" />
+      <window_info id="Structure" order="1" sideWeight="0.50085765" side_tool="true" weight="0.21388888" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.50085765" side_tool="true" weight="0.21388888" />
+      <window_info id="Web" order="6" sideWeight="0.50085765" side_tool="true" weight="0.21388888" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32825485" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.14553314" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.1731302" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32963988" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.54847646" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32963988" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49861112" weight="0.3631124" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.32963988" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5013889" side_tool="true" weight="0.05907781" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49914238" weight="0.2611111" />
+      <window_info id="Structure" order="1" sideWeight="0.50085765" side_tool="true" weight="0.21388888" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.50085765" side_tool="true" weight="0.21388888" />
+      <window_info id="Web" order="6" sideWeight="0.50085765" side_tool="true" weight="0.21388888" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32825485" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.14127424" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.11772853" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32963988" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.54847646" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32963988" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49861112" weight="0.36426592" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.32963988" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5013889" side_tool="true" weight="0.059556786" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/PowerAuth/powerauth-java-cmd.jar!/io/getlime/security/powerauth/provider/CryptoProviderUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/PowerAuth/powerauth-java-cmd.jar!/io/getlime/security/powerauth/lib/cmd/steps/PrepareActivationStep.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-133">
+          <caret line="122" column="94" lean-forward="true" selection-start-line="122" selection-start-column="94" selection-end-line="122" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/powerauth/EncyptionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret line="30" column="38" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/PowerAuth/powerauth-java-cmd.jar!/io/getlime/security/powerauth/http/PowerAuthHttpBody.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/PowerAuth/powerauth-java-cmd.jar!/com/mashape/unirest/http/Unirest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/PowerAuth/powerauth-java-cmd.jar!/com/mashape/unirest/request/HttpRequestWithBody.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="134" column="19" selection-start-line="134" selection-start-column="19" selection-end-line="134" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/PowerAuth/powerauth-java-cmd.jar!/io/getlime/security/powerauth/lib/cmd/steps/model/BaseStepModel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-116">
+          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/net/URI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="1323" column="18" selection-start-line="1323" selection-start-column="18" selection-end-line="1323" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/PowerAuth/powerauth-java-cmd.jar!/io/getlime/security/powerauth/http/PowerAuthRequestCanonizationUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-279">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/powerauth/PowerAuthWebServiceConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="39" column="41" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/PowerAuth/powerauth-java-cmd.jar!/io/getlime/security/powerauth/lib/cmd/steps/VaultUnlockStep.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1824">
+          <caret line="145" column="33" lean-forward="true" selection-start-line="145" selection-start-column="33" selection-end-line="145" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/PowerAuth/powerauth-java-cmd.jar!/io/getlime/security/powerauth/lib/cmd/steps/BaseStep.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/PowerAuth/powerauth-java-cmd.jar!/io/getlime/security/powerauth/lib/cmd/util/RestClientConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-277">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/PowerAuth/powerauth-java-cmd.jar!/io/getlime/security/powerauth/lib/cmd/util/HttpUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/PowerAuth/powerauth-java-cmd.jar!/io/getlime/security/powerauth/lib/cmd/util/ConfigurationUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-497">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/PowerAuth/powerauth-java-cmd.jar!/io/getlime/security/powerauth/crypto/client/activation/PowerAuthClientActivation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-106">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/PowerAuth/powerauth-java-cmd.jar!/io/getlime/security/powerauth/rest/api/model/entity/TokenResponsePayload.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/PowerAuth/powerauth-java-cmd.jar!/io/getlime/security/powerauth/rest/api/model/entity/NonPersonalizedEncryptedPayloadModel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-537">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/PowerAuth/powerauth-java-cmd.jar!/io/getlime/security/powerauth/rest/api/model/request/TokenCreateRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/PowerAuth/powerauth-java-cmd.jar!/io/getlime/security/powerauth/crypto/client/signature/PowerAuthClientSignature.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/PowerAuth/powerauth-java-cmd.jar!/io/getlime/security/powerauth/crypto/client/keyfactory/PowerAuthClientKeyFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-117">
+          <caret line="80" column="21" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/PowerAuth/powerauth-java-cmd.jar!/io/getlime/security/powerauth/crypto/client/token/ClientTokenGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/PowerAuth/powerauth-java-cmd.jar!/io/getlime/security/powerauth/crypto/lib/generator/KeyGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-317">
+          <caret line="99" column="21" selection-start-line="99" selection-start-column="21" selection-end-line="99" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/WebServices/lib/ws.jar!/schemas/jboss-ws-security_1_0.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="159" column="175" selection-start-line="159" selection-start-column="175" selection-end-line="159" selection-end-column="175" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/PowerAuth/powerauth-java-cmd.jar!/io/getlime/security/powerauth/crypto/lib/config/PowerAuthConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/PowerAuth/powerauth-java-cmd.jar!/io/getlime/security/powerauth/crypto/lib/encryptor/model/NonPersonalizedEncryptedMessage.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/PowerAuth/powerauth-java-cmd.jar!/io/getlime/security/powerauth/lib/cmd/steps/VerifyTokenStep.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="40" column="78" selection-start-line="40" selection-start-column="64" selection-end-line="40" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/PowerAuth/powerauth-java-cmd.jar!/io/getlime/security/powerauth/lib/cmd/steps/VerifySignatureStep.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-375">
+          <caret line="105" column="13" lean-forward="true" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/PowerAuth/powerauth-java-cmd.jar!/io/getlime/security/powerauth/crypto/lib/encryptor/ecies/model/EciesPayload.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" column="52" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/PowerAuth/powerauth-java-cmd.jar!/io/getlime/security/powerauth/lib/cmd/util/EncryptedStorageUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/PowerAuth/powerauth-java-cmd.jar!/io/getlime/security/powerauth/crypto/lib/encryptor/ecies/BasicEciesEncryptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="58" column="31" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/PowerAuth/powerauth-java-cmd.jar!/io/getlime/security/powerauth/app/cmd/Application.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="81" column="103" selection-start-line="81" selection-start-column="96" selection-end-line="81" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/PowerAuth/powerauth-java-cmd.jar!/io/getlime/security/powerauth/crypto/client/encryptor/ClientNonPersonalizedEncryptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="38" column="33" lean-forward="true" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/apache-tomcat-7.0.88/webapps/powerauth-java-server.war!/WEB-INF/classes/io/getlime/security/powerauth/app/server/service/PowerAuthServiceImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="78" column="60" lean-forward="true" selection-start-line="78" selection-start-column="60" selection-end-line="78" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/PowerAuth/powerauth-java-cmd.jar!/io/getlime/security/powerauth/crypto/lib/util/SignatureUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="51" column="86" selection-start-line="51" selection-start-column="73" selection-end-line="51" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/apache-tomcat-7.0.88/webapps/powerauth-java-server.war!/WEB-INF/classes/io/getlime/security/powerauth/app/server/service/behavior/tasks/SignatureServiceBehavior.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="128" column="63" selection-start-line="128" selection-start-column="46" selection-end-line="128" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/PowerAuth/powerauth-java-cmd.jar!/io/getlime/security/powerauth/crypto/server/signature/PowerAuthServerSignature.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/PowerAuth/powerauth-java-cmd.jar!/io/getlime/security/powerauth/crypto/lib/encryptor/model/EncryptedMessage.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="16" column="5" selection-start-line="15" selection-start-column="30" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/PowerAuth/powerauth-java-cmd.jar!/io/getlime/security/powerauth/crypto/lib/encryptor/model/PersonalizedEncryptedMessage.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/PowerAuth/powerauth-java-cmd.jar!/io/getlime/security/powerauth/crypto/lib/encryptor/NonPersonalizedEncryptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1660">
+          <caret line="100" column="23" selection-start-line="100" selection-start-column="23" selection-end-line="100" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/getlime/security/powerauth-restful-security-javaee/0.18.0/powerauth-restful-security-javaee-0.18.0.jar!/io/getlime/security/powerauth/rest/api/jaxrs/authentication/PowerAuthSignatureAuthenticationImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-92">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/getlime/security/powerauth-restful-security-javaee/0.18.0/powerauth-restful-security-javaee-0.18.0.jar!/io/getlime/security/powerauth/rest/api/jaxrs/authentication/PowerAuthTokenAuthenticationImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/getlime/security/powerauth-restful-security-javaee/0.18.0/powerauth-restful-security-javaee-0.18.0.jar!/io/getlime/security/powerauth/rest/api/jaxrs/encryption/EncryptorFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/getlime/security/powerauth-restful-security-javaee/0.18.0/powerauth-restful-security-javaee-0.18.0.jar!/io/getlime/security/powerauth/rest/api/jaxrs/controller/ActivationController.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-271">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/getlime/security/powerauth-restful-security-javaee/0.18.0/powerauth-restful-security-javaee-0.18.0.jar!/io/getlime/security/powerauth/rest/api/jaxrs/application/DefaultApplicationConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/getlime/security/powerauth-restful-security-javaee/0.18.0/powerauth-restful-security-javaee-0.18.0.jar!/io/getlime/security/powerauth/rest/api/jaxrs/authentication/PowerAuthApiAuthenticationImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-160">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/getlime/security/powerauth-restful-security-javaee/0.18.0/powerauth-restful-security-javaee-0.18.0.jar!/io/getlime/security/powerauth/rest/api/jaxrs/provider/PowerAuthAuthenticationProvider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1763">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/powerauth/NewTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="649">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+          <folding>
+            <marker date="1532597831962" expanded="false" signature="13506:15384" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/getlime/security/powerauth-restful-security-base/0.18.0/powerauth-restful-security-base-0.18.0.jar!/io/getlime/security/powerauth/rest/api/base/provider/PowerAuthAuthenticationProviderBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>PowerAuthSpring:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>PowerAuthSpring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-core:1.1.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
